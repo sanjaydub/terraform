@@ -6,7 +6,9 @@ https://releases.hashicorp.com/terraform/0.12.9/terraform_0.12.9_linux_amd64.zip
 
 href="https://releases.hashicorp.com/terraform/0.12.24/terraform_0.12.24_linux_amd64.zip"
 
-###update softwares
+### Below all commands utilized on RHEL 8 linux
+
+### update softwares
 yum update -y
 
 ### install wget util (to download file from internet)
